@@ -13,7 +13,7 @@ class HashMapImplementation
 		hashMap1.put(11,15);
 		hashMap1.put(18,199);
 		hashMap1.put(21,23);
-		
+		hashMap1.put(25,234);
 
 		System.out.println(hashMap1);
 	}
